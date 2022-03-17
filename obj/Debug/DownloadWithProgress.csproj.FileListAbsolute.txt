@@ -1,0 +1,11 @@
+C:\Users\Chris\Desktop\DownloadWithProgress\bin\Debug\DownloadWithProgress.exe.config
+C:\Users\Chris\Desktop\DownloadWithProgress\bin\Debug\DownloadWithProgress.exe
+C:\Users\Chris\Desktop\DownloadWithProgress\bin\Debug\DownloadWithProgress.pdb
+C:\Users\Chris\Desktop\DownloadWithProgress\obj\Debug\DownloadWithProgress.csproj.AssemblyReference.cache
+C:\Users\Chris\Desktop\DownloadWithProgress\obj\Debug\DownloadWithProgress.csproj.SuggestedBindingRedirects.cache
+C:\Users\Chris\Desktop\DownloadWithProgress\obj\Debug\DownloadWithProgress.Form1.resources
+C:\Users\Chris\Desktop\DownloadWithProgress\obj\Debug\DownloadWithProgress.Properties.Resources.resources
+C:\Users\Chris\Desktop\DownloadWithProgress\obj\Debug\DownloadWithProgress.csproj.GenerateResource.cache
+C:\Users\Chris\Desktop\DownloadWithProgress\obj\Debug\DownloadWithProgress.csproj.CoreCompileInputs.cache
+C:\Users\Chris\Desktop\DownloadWithProgress\obj\Debug\DownloadWithProgress.exe
+C:\Users\Chris\Desktop\DownloadWithProgress\obj\Debug\DownloadWithProgress.pdb
